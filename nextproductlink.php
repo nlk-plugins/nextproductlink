@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Next Product Link
-Description: Helper Plugin to provide Next/Previous Product links to navigate between WP E-Commerce Products via something like next_product_link( '%link', 'Next Product "%title" &gt;' )
+Description: Provides Next/Previous Product links to navigate between WP E-Commerce Products via something like next_product_link( '%link', 'Next Product "%title" &gt;' )
 Version: 1.0
 Author: Alex Chousmith
-Author URI: http://www.ninthlink.com/author/alex/
+Author URI: http://www.ninthlink.com
 */
 
 if ( !function_exists( 'next_product_link' ) ):
